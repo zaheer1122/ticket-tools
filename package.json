@@ -10,7 +10,7 @@
     "slashDisable": "node index.js slash disable",
     "cleardata": "node ./core/dynamicdatabase/cleardata.js"
   },
-  "author": "DJdj Development",
+  "author": "ZQ DEVELOPER",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DJj123dj/open-ticket.git"
+    "url": "git+https://github.com/zaheer1122/ticket-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/DJj123dj/open-ticket/issues"
+    "url": "https://github.com/zaheer1122/ticket-tools/issues"
   },
-  "homepage": "https://github.com/DJj123dj/open-ticket#readme"
+  "homepage": "https://github.com/zaheer1122/ticket-tools#readme"
 }
